@@ -1,0 +1,9 @@
+model = "Hubbard"
+method = "CG"
+lattice = "square"
+W= 2
+L = 2
+t = 1
+U = 8
+nelec = 4
+2Sz = 0
